@@ -1,4 +1,4 @@
-package controlstate;
+package controlstatement;
 
 public class max3no {
 
